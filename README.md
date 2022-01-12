@@ -1,16 +1,17 @@
-### Hi there 👋
+- 👋 Hi, I’m Paulina Gadea, it's really nice to meet you!
 
-<!--
-**paulinagadea/paulinagadea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm from Misiones, Argentina. I'm in love with dogs, books, music, photography, painting, and of course technology!
+I studied Bussiness Managment at the National University of Misiones during 2021, but when the pandemic started I became really 
+interested in technology, so I decided to study programming. I took many web development courses and I'm currently studying at a 
+programming bootcamp.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👀 I’m interested in blockchain and graphic design.
+- 🌱 I’m currently learning web development. 
+- 📫 How to reach me: https://www.linkedin.com/in/paulinagadea
+
+I hope you have a lovely day! ♡
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
