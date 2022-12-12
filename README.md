@@ -6,13 +6,13 @@
 </p>
 <hr>
 <p align="center">
-  Born and based in Misiones, Argentina. I'm a self-taught Full Stack Web Developer with experience building web projects using the PERN stack (PostgreSQL, Express, ReactJs, NodeJs). I studied Bussiness Managment at the National University of Misiones during 2021, after the pandemic I took many web development courses and I'm currently forming myself as a Blockchain Developer.
+  Born and based in Misiones, Argentina. I'm a self-taught Full Stack Web Developer with experience building web projects using the PERN stack (PostgreSQL, Express, ReactJs, NodeJs). I studied Bussiness Managment at the National University of Misiones during 2021, after the pandemic I took many web development courses and I'm currently forming myself as a Front End Developer.
 Deeply passionate about business, tech, crypto, entrepreneurship and videogames. I'm always eager to learn new technologies, curious, responsible and with a lot of initiative, I always seek to nurture myself personally and professionally.
 
 Main skills: JavaScript, ReactJS, Redux, CSS, NodeJS, Express, PostgreSQL, Sequelize.
 </p>
 
-If you need more information about me, send me a DM or contact me: paulinagadea2702@gmail.com
+If you need more information about me, contact me: paulinagadea2702@gmail.com
 
 <hr>
 <h3 align="center">Connect with me:</h3>
